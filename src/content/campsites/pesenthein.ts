@@ -198,7 +198,7 @@ export const pesenthein: CampsiteConfig = {
     tag: "April bis Oktober",
     images: [
       { src: `${IMG}/galerie-fischerhuette.webp`, alt: "Außenansicht des Seeapartments Fischerhütte in Pesenthein" },
-      { src: `${IMG}/galerie-biwak-terrasse.webp`, alt: "Terrasse des Biwak Freiheit mit Panoramablick über den Millstätter See" },
+      { src: `${IMG}/galerie-biwak-innen.webp`, alt: "Innenansicht des Biwak Freiheit: Bettplattform mit Frühstückskorb unter den Dachfenstern aus Zirbenholz" },
       { src: `${IMG}/galerie-strand-kinder.webp`, alt: "Sandstrand am Millstätter See im Strandbad Pesenthein" },
       { src: `${IMG}/galerie-see-panorama.webp`, alt: "Panorama des Millstätter Sees mit Schwänen am Ufer" },
     ],
