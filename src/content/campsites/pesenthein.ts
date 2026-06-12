@@ -224,11 +224,11 @@ export const pesenthein: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 46.805129, lng: 13.571493, approx: true },
     tel: "+43 4766 2665",
     telHref: "tel:+4347662665",
     mail: "camping@pesenthein.at",
     adresse: "Pesenthein 19 · 9872 Millstatt am See · Kärnten",
-    coords: { lat: 46.794975, lng: 13.596784 },
   },
 
   story: {
