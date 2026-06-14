@@ -85,14 +85,14 @@ export const pesenthein: CampsiteConfig = {
       "Auf 15.000 m² liegen rund 170 großzügige Einzel-Stellplätze auf einer Blumenwiese — terrassiert ausgerichtet, mit freiem Blick auf Berge und Wasser.",
     features: [
       {
-        title: "Terrassierte Stellplätze",
-        text: "Die Plätze gibt es in zwei Größen, sodass auch größere Wohnmobile und Wohnwagen genug Raum finden. Alle Terrassen sind über asphaltierte Wege gut erreichbar.",
-        image: { src: `${IMG}/stellplaetze-terrassen.webp`, alt: "Terrassierte Stellplätze mit Wohnwagen und asphaltierten Wegen in Pesenthein" },
-      },
-      {
         title: "Logenblick aufs Wasser",
         text: "Eine Blumenwiese als Stellplatz, klares Wasser zum Baden: Camper schätzen die terrassierte Ausrichtung und den ungehinderten Blick auf Berge und See.",
         image: { src: `${IMG}/logenblick-wiese-see.webp`, alt: "Wiesen-Stellplätze mit weitem Blick über den Millstätter See" },
+      },
+      {
+        title: "Terrassierte Stellplätze",
+        text: "Die Plätze gibt es in zwei Größen, sodass auch größere Wohnmobile und Wohnwagen genug Raum finden. Alle Terrassen sind über asphaltierte Wege gut erreichbar.",
+        image: { src: `${IMG}/stellplaetze-terrassen.webp`, alt: "Terrassierte Stellplätze mit Wohnwagen und asphaltierten Wegen in Pesenthein" },
       },
       {
         title: "Pavillon mit Sanitär rund um die Uhr",
