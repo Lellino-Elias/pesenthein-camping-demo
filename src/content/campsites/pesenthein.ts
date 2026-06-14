@@ -86,27 +86,27 @@ export const pesenthein: CampsiteConfig = {
     features: [
       {
         title: "Logenblick aufs Wasser",
-        text: "Eine Blumenwiese als Stellplatz, klares Wasser zum Baden: Camper schätzen die terrassierte Ausrichtung und den ungehinderten Blick auf Berge und See.",
+        text: "Camper schätzen die terrassierte Ausrichtung und den freien Blick über Berge und See — von jeder Ebene.",
         image: { src: `${IMG}/logenblick-wiese-see.webp`, alt: "Wiesen-Stellplätze mit weitem Blick über den Millstätter See" },
       },
       {
         title: "Terrassierte Stellplätze",
-        text: "Die Plätze gibt es in zwei Größen, sodass auch größere Wohnmobile und Wohnwagen genug Raum finden. Alle Terrassen sind über asphaltierte Wege gut erreichbar.",
+        text: "Stellplätze in zwei Größen — auch für große Wohnmobile. Alle Terrassen sind über asphaltierte Wege erreichbar.",
         image: { src: `${IMG}/stellplaetze-terrassen.webp`, alt: "Terrassierte Stellplätze mit Wohnwagen und asphaltierten Wegen in Pesenthein" },
       },
       {
         title: "Pavillon mit Sanitär rund um die Uhr",
-        text: "Im zentralen Pavillon: beheizte, helle Duschräume, Babywickelraum sowie Waschküche mit Münz-Waschmaschinen und Trocknern — rund um die Uhr verfügbar. Dazu Spielzimmer, TV- und Aufenthaltsraum.",
+        text: "Beheizter Pavillon mit Duschräumen, Babywickelraum, Waschküche sowie Spielzimmer und Aufenthaltsraum — rund um die Uhr.",
         image: { src: `${IMG}/pavillon-sanitaer.webp`, alt: "Zentraler Pavillon des Campingplatzes Pesenthein über dem See" },
       },
       {
         title: "FKK & Textil – getrennte Bereiche",
-        text: "Sowohl der Campingplatz als auch das zugehörige Strandbad sind in eigene FKK- und Textilbereiche unterteilt. Ein separater, ruhiger FKK-Bereich mit eigenen Sanitäranlagen wahrt die nötige Privatsphäre.",
+        text: "Platz und Strandbad sind jeweils in getrennte FKK- und Textilbereiche unterteilt, mit eigenen Sanitäranlagen für den FKK-Bereich.",
         image: { src: `${IMG}/fkk-textil-strandbad.webp`, alt: "Liegewiese am Strandbad Pesenthein mit Blick auf den Millstätter See" },
       },
       {
         title: "Strom, Wasser & WLAN",
-        text: "Die Stellplätze sind mit Strom- und Wasseranschluss versorgt, eine hygienische mobile Abwasser-Entsorgung ist vorhanden. Gratis-WLAN gibt es für unsere Campinggäste am Platz.",
+        text: "Alle Stellplätze mit Strom- und Wasseranschluss. Mobile Abwasserentsorgung vorhanden. Gratis-WLAN für alle Campinggäste.",
         image: { src: `${IMG}/luftaufnahme-camping-see.webp`, alt: "Luftaufnahme der terrassierten Stellplätze von Camping Pesenthein am See" },
       },
     ],
@@ -120,14 +120,14 @@ export const pesenthein: CampsiteConfig = {
       {
         name: "Seeapartment „Fischerhütte“",
         kind: "Ferienhaus am See · 2 Personen",
-        text: "Exklusives 45-m²-Apartment in direkter Seelage mit großer Terrasse, Küche, Wohn-/Essbereich, Doppelbett und Bad mit Dusche/WC. Bettwäsche, Handtücher und Föhn inklusive. Arrangement ab € 375 p. P. / 2 Nächte inkl. Halbpension & 3 Tage Kärnten Badehaus Millstätter See.",
+        text: "45-m²-Apartment direkt am See mit Terrasse, Küche, Doppelbett und Bad. Bettwäsche, Handtücher und Föhn inklusive.",
         image: { src: `${IMG}/fischerhuette-wohnen-seeblick.webp`, alt: "Wohn- und Essbereich der Fischerhütte mit offener Terrasse und Seeblick" },
         features: ["2 Personen", "ca. 45 m²", "direkte Seelage", "eigene Terrasse"],
       },
       {
         name: "Biwak „Freiheit | Libertà“",
         kind: "Übernachtung unter den Sternen · 2 Personen",
-        text: "Von der höchsten Terrasse des Platzes ein fantastischer Panoramablick auf den See — geschützt vor neugierigen Blicken. Inklusive 3-Gang-Abendmenü, Frühstückskorb, Flasche Sekt und Eintritt ins Kärnten Badehaus. Ein 2016 gestartetes Leuchtturmprojekt.",
+        text: "Panoramablick vom höchsten Terrassenplatz — inklusive 3-Gang-Abendmenü, Frühstückskorb, Sekt und Badehaus-Eintritt.",
         image: { src: `${IMG}/biwak-unter-sternen.webp`, alt: "Blick aus dem Biwak Freiheit auf die Terrasse mit Panoramablick über den Millstätter See" },
         priceFrom: 250,
         features: ["2 Personen", "Panoramablick", "inkl. Abendmenü & Sekt", "inkl. Badehaus-Eintritt"],
