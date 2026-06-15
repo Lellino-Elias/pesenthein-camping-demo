@@ -40,7 +40,7 @@ export const pesenthein: CampsiteConfig = {
     {
       title: "Direkt am Millstätter See",
       text: "Auf der Sonnenseite der Alpen, adriatisch mild — der See hat Trinkwasserqualität und im Sommer angenehme 20 bis 25 °C.",
-      image: { src: `${IMG}/see-stille-ufer.webp`, alt: "Stilles Ufer des Millstätter Sees mit Blick auf die Berge" },
+      image: { src: `${IMG}/schwaene-am-see.webp`, alt: "Schwäne am Steg des glasklaren Millstätter Sees mit Bergpanorama" },
     },
     {
       title: "Logenplatz auf Terrassen",
@@ -76,7 +76,7 @@ export const pesenthein: CampsiteConfig = {
   saison: { von: "April", bis: "Oktober" },
 
   hero: {
-    aerial: { src: `${IMG}/hero-luftaufnahme-see.webp`, alt: "Luftaufnahme: Camping Pesenthein mit Strandbad direkt am Millstätter See" },
+    aerial: { src: `${IMG}/luftaufnahme-camping-see.webp`, alt: "Luftaufnahme: Alle terrassierten Stellplätze von Camping Pesenthein am Millstätter See" },
   },
 
   camping: {
@@ -107,7 +107,7 @@ export const pesenthein: CampsiteConfig = {
       {
         title: "Strom, Wasser & WLAN",
         text: "Alle Stellplätze mit Strom- und Wasseranschluss. Mobile Abwasserentsorgung vorhanden. Gratis-WLAN für alle Campinggäste.",
-        image: { src: `${IMG}/luftaufnahme-camping-see.webp`, alt: "Luftaufnahme der terrassierten Stellplätze von Camping Pesenthein am See" },
+        image: { src: `${IMG}/hero-luftaufnahme-see.webp`, alt: "Luftaufnahme: Camping Pesenthein mit Strandbad und Bootssteg direkt am Millstätter See" },
       },
     ],
   },
@@ -176,7 +176,7 @@ export const pesenthein: CampsiteConfig = {
       {
         title: "Natur & stille Buchten",
         text: "Schwäne, Schilf und ruhige Uferplätze: viel Raum, um abzuschalten und der Natur nah zu sein.",
-        image: { src: `${IMG}/schwaene-am-see.webp`, alt: "Schwäne am ruhigen Ufer des Millstätter Sees" },
+        image: { src: `${IMG}/see-stille-ufer.webp`, alt: "Stilles Ufer des Millstätter Sees mit Blick auf die Berge" },
       },
     ],
   },
